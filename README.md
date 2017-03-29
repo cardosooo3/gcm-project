@@ -1,3 +1,4 @@
 # gcm-project
-#função:Aluno
+#função:Aluno:Rafael Cardoso
+ADS 3B
 #faculdade: Ipacta
